@@ -1,8 +1,9 @@
 # salatkit-oauth-callback
 
-Public HTTPS OAuth redirect for [SalatKit](https://github.com/syed-dawood/SalatKit).
+Public pages for [SalatKit](https://github.com/syed-dawood/SalatKit) — OAuth bridge, Privacy Policy, and Terms.
 
-**Register with Quran Foundation:**
-`https://syed-dawood.github.io/salatkit-oauth-callback/oauth/callback`
-
-**Test:** add `?debug=1&code=test_code&state=test_state`
+| Page | URL |
+|------|-----|
+| OAuth callback | `https://syed-dawood.github.io/salatkit-oauth-callback/oauth/callback/` |
+| Privacy Policy | `https://syed-dawood.github.io/salatkit-oauth-callback/privacy/` |
+| Terms & Conditions | `https://syed-dawood.github.io/salatkit-oauth-callback/terms/` |
